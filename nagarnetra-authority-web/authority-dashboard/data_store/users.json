@@ -1,0 +1,16 @@
+[
+  {
+    "id": "USR-1000",
+    "email": "citizen@nagarnetra.in",
+    "name": "Rahul Sharma",
+    "authMethod": "email",
+    "createdAt": 1719500000000
+  },
+  {
+    "id": "USR-3000",
+    "email": "oauth@nagarnetra.in",
+    "name": "Google User",
+    "authMethod": "google",
+    "createdAt": 1719510000000
+  }
+]

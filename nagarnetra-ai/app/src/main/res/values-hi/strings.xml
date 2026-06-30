@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App identity -->
+    <string name="app_name">नगरनेत्र AI</string>
+    <string name="app_tagline">Eyes of the city</string>
+    <string name="app_tagline_local">Eyes of the city</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_home">होम</string>
+    <string name="tab_map">मानचित्र</string>
+    <string name="tab_status">स्थिति</string>
+    <string name="tab_profile">प्रोफ़ाइल</string>
+
+    <!-- FAB / Primary action -->
+    <string name="fab_report">समस्या रिपोर्ट करें</string>
+
+    <!-- Auth screen -->
+    <string name="auth_welcome">नगरनेत्र में आपका स्वागत है</string>
+    <string name="auth_subtitle">बेंगलुरु का नागरिक समस्या रिपोर्टिंग प्लेटफ़ॉर्म</string>
+    <string name="auth_email_label">ईमेल पता</string>
+    <string name="auth_email_placeholder">citizen@nagarnetra.in</string>
+    <string name="auth_password_label">पासवर्ड</string>
+    <string name="auth_password_placeholder">कम से कम 6 अक्षर</string>
+    <string name="auth_name_label">पूरा नाम</string>
+    <string name="auth_name_placeholder">जैसे राहुल शर्मा</string>
+    <string name="auth_sign_in">साइन इन करें</string>
+    <string name="auth_register">खाता बनाएं</string>
+    <string name="auth_google">Google से जारी रखें</string>
+    <string name="auth_switch_to_register">खाता नहीं है? रजिस्टर करें</string>
+    <string name="auth_switch_to_login">पहले से खाता है? साइन इन करें</string>
+    <string name="auth_logout">साइन आउट</string>
+
+    <!-- Live metrics card -->
+    <string name="metrics_title">बेंगलुरु नागरिक डैशबोर्ड</string>
+    <string name="metrics_resolved">BBMP AI द्वारा हल की गई समस्याएं</string>
+    <string name="metrics_live_badge">आपके पास %1$d लाइव समस्याएं</string>
+
+    <!-- Map hints -->
+    <string name="map_hint">पास की समस्याएं देखने के लिए मानचित्र के पिन पर टैप करें</string>
+    <string name="map_preview_upvotes">%1$d नागरिक प्रभावित</string>
+    <string name="map_preview_login_to_upvote">अपवोट के लिए साइन इन करें</string>
+
+    <!-- Report flow -->
+    <string name="report_title">समस्या रिपोर्ट करें</string>
+    <string name="report_step_photo">फ़ोटो लें</string>
+    <string name="report_step_location">स्थान की पुष्टि करें</string>
+    <string name="report_step_category">श्रेणी चुनें</string>
+    <string name="report_step_severity">गंभीरता रेट करें</string>
+    <string name="report_step_details">विवरण जोड़ें</string>
+    <string name="report_submit">रिपोर्ट जमा करें</string>
+    <string name="report_submitting">जमा हो रहा है…</string>
+
+    <!-- Categories -->
+    <string name="category_pothole">गड्ढा</string>
+    <string name="category_water">पानी / सीवर</string>
+    <string name="category_lights">स्ट्रीट लाइट</string>
+    <string name="category_garbage">कचरा</string>
+    <string name="category_road">सड़क क्षति</string>
+    <string name="category_encroachment">अतिक्रमण</string>
+    <string name="category_other">अन्य</string>
+
+    <!-- Status labels -->
+    <string name="status_submitted">जमा किया गया</string>
+    <string name="status_triaged">वर्गीकृत</string>
+    <string name="status_assigned">सौंपा गया</string>
+    <string name="status_in_progress">प्रगति में</string>
+    <string name="status_resolved">हल किया गया</string>
+    <string name="status_escalated">बढ़ाया गया</string>
+
+    <!-- Status tab -->
+    <string name="status_empty_title">अभी कोई रिपोर्ट नहीं</string>
+    <string name="status_empty_subtitle">आपकी जमा की गई रिपोर्टें यहां दिखेंगी</string>
+    <string name="status_issue_id">समस्या ID: %1$s</string>
+    <string name="status_days_open">%1$d दिनों से खुली है</string>
+    <string name="status_upvotes">%1$d अपवोट</string>
+
+    <!-- Profile -->
+    <string name="profile_title">प्रोफ़ाइल और सेटिंग्स</string>
+    <string name="profile_language">भाषा</string>
+    <string name="profile_notifications">सूचनाएं</string>
+    <string name="profile_privacy">गोपनीयता और डेटा</string>
+    <string name="profile_about">नगरनेत्र के बारे में</string>
+    <string name="profile_delete_account">मेरा खाता हटाएं</string>
+
+    <!-- Language names -->
+    <string name="lang_english">English</string>
+    <string name="lang_kannada">ಕನ್ನಡ</string>
+    <string name="lang_hindi">हिंदी</string>
+
+    <!-- Error messages -->
+    <string name="error_network">नेटवर्क त्रुटि। कृपया अपना कनेक्शन जांचें।</string>
+    <string name="error_auth_failed">साइन इन विफल। कृपया अपनी जानकारी जांचें।</string>
+    <string name="error_fields_required">कृपया सभी आवश्यक फ़ील्ड भरें।</string>
+    <string name="error_photo_required">कृपया समस्या की फ़ोटो लें।</string>
+    <string name="error_location_required">कृपया स्थान की पुष्टि करें।</string>
+    <string name="error_generic">कुछ गलत हुआ। कृपया फिर से प्रयास करें।</string>
+
+    <!-- Success messages -->
+    <string name="success_report_submitted">रिपोर्ट सफलतापूर्वक जमा की गई!</string>
+    <string name="success_report_updated">रिपोर्ट अपडेट की गई।</string>
+</resources>

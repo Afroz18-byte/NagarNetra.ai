@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1782367085441,
+    "isBotAction": true,
+    "message": "Fake report of garbage dump flagged from User ID 2341 - trust score adjusted",
+    "priority": "High"
+  },
+  {
+    "timestamp": 1782366665441,
+    "isBotAction": true,
+    "message": "3 adjacent water leak reports merged in Koramangala Ward 5 — Escalated to Ward Engineer",
+    "priority": "Medium"
+  },
+  {
+    "timestamp": 1782365285441,
+    "isBotAction": true,
+    "message": "CRITICAL ALERT: Issue IDS-181 (Open Sewer Manhole on MG Road) escalated — 14 days pending, SLA breached!",
+    "priority": "Critical"
+  },
+  {
+    "timestamp": 1782363785441,
+    "isBotAction": false,
+    "message": "Citizen Rahul upvoted 'Critical Deep Pothole' (IDS-187)",
+    "priority": "Low"
+  }
+]

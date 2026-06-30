@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App identity -->
+    <string name="app_name">ನಗರನೇತ್ರ AI</string>
+    <string name="app_tagline">Eyes of the city</string>
+    <string name="app_tagline_local">Eyes of the city</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_home">ಮನೆ</string>
+    <string name="tab_map">ನಕ್ಷೆ</string>
+    <string name="tab_status">ಸ್ಥಿತಿ</string>
+    <string name="tab_profile">ಪ್ರೊಫೈಲ್</string>
+
+    <!-- FAB / Primary action -->
+    <string name="fab_report">ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ</string>
+
+    <!-- Auth screen -->
+    <string name="auth_welcome">ನಗರನೇತ್ರಗೆ ಸ್ವಾಗತ</string>
+    <string name="auth_subtitle">ಬೆಂಗಳೂರಿನ ಪೌರ ಸಮಸ್ಯೆ ವರದಿ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="auth_email_label">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="auth_email_placeholder">citizen@nagarnetra.in</string>
+    <string name="auth_password_label">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="auth_password_placeholder">ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳು</string>
+    <string name="auth_name_label">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="auth_name_placeholder">ಉದಾ. ರಾಹುಲ್ ಶರ್ಮಾ</string>
+    <string name="auth_sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="auth_register">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="auth_google">Google ಮೂಲಕ ಮುಂದುವರಿಯಿರಿ</string>
+    <string name="auth_switch_to_register">ಖಾತೆ ಇಲ್ಲವೇ? ನೋಂದಾಯಿಸಿ</string>
+    <string name="auth_switch_to_login">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ? ಸೈನ್ ಇನ್</string>
+    <string name="auth_logout">ಸೈನ್ ಔಟ್</string>
+
+    <!-- Live metrics card -->
+    <string name="metrics_title">ಬೆಂಗಳೂರು ಪೌರ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="metrics_resolved">BBMP AI ಮೂಲಕ ಪರಿಹರಿಸಲಾದ ಸಮಸ್ಯೆಗಳು</string>
+    <string name="metrics_live_badge">ನಿಮ್ಮ ಸಮೀಪ %1$d ಲೈವ್ ಸಮಸ್ಯೆಗಳು</string>
+
+    <!-- Map hints -->
+    <string name="map_hint">ಸಮೀಪದ ಸಮಸ್ಯೆಗಳನ್ನು ನೋಡಲು ನಕ್ಷೆಯ ಪಿನ್ ಮೇಲೆ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="map_preview_upvotes">%1$d ನಾಗರಿಕರು ಪ್ರಭಾವಿತರಾಗಿದ್ದಾರೆ</string>
+    <string name="map_preview_login_to_upvote">ಅಪ್‌ವೋಟ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+
+    <!-- Report flow -->
+    <string name="report_title">ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="report_step_photo">ಫೋಟೋ ತೆಗೆಯಿರಿ</string>
+    <string name="report_step_location">ಸ್ಥಳ ದೃಢೀಕರಿಸಿ</string>
+    <string name="report_step_category">ವರ್ಗ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="report_step_severity">ತೀವ್ರತೆ ನಿರ್ಧರಿಸಿ</string>
+    <string name="report_step_details">ವಿವರಗಳು ನಮೂದಿಸಿ</string>
+    <string name="report_submit">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+    <string name="report_submitting">ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+
+    <!-- Categories -->
+    <string name="category_pothole">ಗುಂಡಿ</string>
+    <string name="category_water">ನೀರು / ಒಳಚರಂಡಿ</string>
+    <string name="category_lights">ಬೀದಿ ದೀಪಗಳು</string>
+    <string name="category_garbage">ಕಸ</string>
+    <string name="category_road">ರಸ್ತೆ ಹಾನಿ</string>
+    <string name="category_encroachment">ಅತಿಕ್ರಮಣ</string>
+    <string name="category_other">ಇತರ</string>
+
+    <!-- Status labels -->
+    <string name="status_submitted">ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="status_triaged">ವಿಶ್ಲೇಷಿಸಲಾಗಿದೆ</string>
+    <string name="status_assigned">ನಿಯೋಜಿಸಲಾಗಿದೆ</string>
+    <string name="status_in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="status_resolved">ಪರಿಹರಿಸಲಾಗಿದೆ</string>
+    <string name="status_escalated">ಉನ್ನತೀಕರಿಸಲಾಗಿದೆ</string>
+
+    <!-- Status tab -->
+    <string name="status_empty_title">ಇನ್ನೂ ವರದಿಗಳಿಲ್ಲ</string>
+    <string name="status_empty_subtitle">ನೀವು ಸಲ್ಲಿಸಿದ ವರದಿಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ</string>
+    <string name="status_issue_id">ಸಮಸ್ಯೆ ID: %1$s</string>
+    <string name="status_days_open">%1$d ದಿನಗಳಿಂದ ತೆರೆದಿದೆ</string>
+    <string name="status_upvotes">%1$d ಅಪ್‌ವೋಟ್‌ಗಳು</string>
+
+    <!-- Profile -->
+    <string name="profile_title">ಪ್ರೊಫೈಲ್ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="profile_language">ಭಾಷೆ</string>
+    <string name="profile_notifications">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="profile_privacy">ಗೌಪ್ಯತೆ ಮತ್ತು ಡೇಟಾ</string>
+    <string name="profile_about">ನಗರನೇತ್ರ ಬಗ್ಗೆ</string>
+    <string name="profile_delete_account">ನನ್ನ ಖಾತೆ ಅಳಿಸಿ</string>
+
+    <!-- Language names -->
+    <string name="lang_english">English</string>
+    <string name="lang_kannada">ಕನ್ನಡ</string>
+    <string name="lang_hindi">हिंदी</string>
+
+    <!-- Error messages -->
+    <string name="error_network">ನೆಟ್‌ವರ್ಕ್ ದೋಷ. ನಿಮ್ಮ ಸಂಪರ್ಕ ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="error_auth_failed">ಸೈನ್ ಇನ್ ವಿಫಲವಾಗಿದೆ. ದಾಖಲಾತಿ ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="error_fields_required">ಎಲ್ಲಾ ಅಗತ್ಯ ಕ್ಷೇತ್ರಗಳನ್ನು ತುಂಬಿಸಿ.</string>
+    <string name="error_photo_required">ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯ ಫೋಟೋ ತೆಗೆಯಿರಿ.</string>
+    <string name="error_location_required">ದಯವಿಟ್ಟು ಸ್ಥಳ ದೃಢೀಕರಿಸಿ.</string>
+    <string name="error_generic">ತಪ್ಪಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <!-- Success messages -->
+    <string name="success_report_submitted">ವರದಿ ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ!</string>
+    <string name="success_report_updated">ವರದಿ ನವೀಕರಿಸಲಾಗಿದೆ.</string>
+</resources>

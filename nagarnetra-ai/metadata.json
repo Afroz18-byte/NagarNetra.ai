@@ -1,0 +1,6 @@
+{
+  "name": "NagarNetra AI",
+  "description": "NagarNetra AI - The eyes of the city. (Citizen Mobile App and Authority Web Panel for Indian Civic Governance)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

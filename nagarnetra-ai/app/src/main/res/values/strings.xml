@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App identity -->
+    <string name="app_name">NagarNetra AI</string>
+    <string name="app_tagline">Eyes of the city</string>
+    <string name="app_tagline_local">Eyes of the city</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_profile">Profile</string>
+
+    <!-- FAB / Primary action -->
+    <string name="fab_report">Report Issue</string>
+
+    <!-- Auth screen -->
+    <string name="auth_welcome">Welcome to NagarNetra</string>
+    <string name="auth_subtitle">Bengaluru\'s civic issue reporting platform</string>
+    <string name="auth_email_label">Email address</string>
+    <string name="auth_email_placeholder">citizen@nagarnetra.in</string>
+    <string name="auth_password_label">Password</string>
+    <string name="auth_password_placeholder">At least 6 characters</string>
+    <string name="auth_name_label">Full name</string>
+    <string name="auth_name_placeholder">e.g. Rahul Sharma</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_register">Create account</string>
+    <string name="auth_google">Continue with Google</string>
+    <string name="auth_switch_to_register">Don\'t have an account? Register</string>
+    <string name="auth_switch_to_login">Already have an account? Sign In</string>
+    <string name="auth_logout">Sign out</string>
+
+    <!-- Live metrics card -->
+    <string name="metrics_title">Bengaluru Civic Dashboard</string>
+    <string name="metrics_resolved">Issues resolved by BBMP AI</string>
+    <string name="metrics_live_badge">%1$d live issues near you</string>
+
+    <!-- Map hints -->
+    <string name="map_hint">Tap a pin on the map to preview nearby issues</string>
+    <string name="map_preview_upvotes">%1$d citizens affected</string>
+    <string name="map_preview_login_to_upvote">Sign in to upvote</string>
+
+    <!-- Report flow -->
+    <string name="report_title">Report an Issue</string>
+    <string name="report_step_photo">Take a photo</string>
+    <string name="report_step_location">Confirm location</string>
+    <string name="report_step_category">Select category</string>
+    <string name="report_step_severity">Rate severity</string>
+    <string name="report_step_details">Add details</string>
+    <string name="report_submit">Submit report</string>
+    <string name="report_submitting">Submitting…</string>
+
+    <!-- Categories -->
+    <string name="category_pothole">Pothole</string>
+    <string name="category_water">Water / Sewage</string>
+    <string name="category_lights">Street Lights</string>
+    <string name="category_garbage">Garbage</string>
+    <string name="category_road">Road damage</string>
+    <string name="category_encroachment">Encroachment</string>
+    <string name="category_other">Other</string>
+
+    <!-- Status labels -->
+    <string name="status_submitted">Submitted</string>
+    <string name="status_triaged">Triaged</string>
+    <string name="status_assigned">Assigned</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_resolved">Resolved</string>
+    <string name="status_escalated">Escalated</string>
+
+    <!-- Status tab -->
+    <string name="status_empty_title">No reports yet</string>
+    <string name="status_empty_subtitle">Your submitted reports will appear here</string>
+    <string name="status_issue_id">Issue ID: %1$s</string>
+    <string name="status_days_open">Open for %1$d days</string>
+    <string name="status_upvotes">%1$d upvotes</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile &amp; Settings</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_notifications">Notifications</string>
+    <string name="profile_privacy">Privacy &amp; Data</string>
+    <string name="profile_about">About NagarNetra</string>
+    <string name="profile_delete_account">Delete my account</string>
+
+    <!-- Language names -->
+    <string name="lang_english">English</string>
+    <string name="lang_kannada">ಕನ್ನಡ</string>
+    <string name="lang_hindi">हिंदी</string>
+
+    <!-- Accessibility / content descriptions -->
+    <string name="cd_app_logo">NagarNetra logo</string>
+    <string name="cd_sign_out">Sign out of NagarNetra</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_report_issue">Report a civic issue</string>
+    <string name="cd_upvote">Upvote this issue</string>
+    <string name="cd_map">Map of reported issues in your area</string>
+    <string name="cd_password_show">Show password</string>
+    <string name="cd_password_hide">Hide password</string>
+    <string name="cd_issue_photo">Photo of the reported issue</string>
+    <string name="cd_severity_level">Severity level: %1$d out of 10</string>
+
+    <!-- Error messages -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_auth_failed">Sign in failed. Please check your credentials.</string>
+    <string name="error_fields_required">Please fill in all required fields.</string>
+    <string name="error_photo_required">Please take a photo of the issue.</string>
+    <string name="error_location_required">Please confirm the issue location.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+
+    <!-- Success messages -->
+    <string name="success_report_submitted">Report submitted successfully!</string>
+    <string name="success_report_updated">Report updated.</string>
+</resources>

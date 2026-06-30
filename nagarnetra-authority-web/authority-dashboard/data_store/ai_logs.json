@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1782366785441,
+    "agentName": "VisionBot",
+    "issueId": "IDS-187",
+    "decision": "Pavement surface failure verified.",
+    "detail": "Confidence: 95%. Depth estimated: 1.2ft."
+  },
+  {
+    "timestamp": 1782366845441,
+    "agentName": "CategoryBot",
+    "issueId": "IDS-187",
+    "decision": "Routed to PWD Roads Division.",
+    "detail": "Classification aligned with BBMP-PWD shared jurisdiction."
+  },
+  {
+    "timestamp": 1782366905441,
+    "agentName": "PriorityBot",
+    "issueId": "IDS-187",
+    "decision": "Severity score assessed as 9/10.",
+    "detail": "Critical status due to presence on fast lane of busy arterial road."
+  }
+]
